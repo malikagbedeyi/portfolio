@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e3b496fc.css",
-    "main.js": "/portfolio/static/js/main.29fe5ea4.js",
+    "main.css": "/portfolio/static/css/main.2a9bde0e.css",
+    "main.js": "/portfolio/static/js/main.02dac709.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
     "static/media/contact.jpg": "/portfolio/static/media/contact.685296bfafdb21fc8cb9.jpg",
     "static/media/project-overlay.jpg": "/portfolio/static/media/project-overlay.685296bfafdb21fc8cb9.jpg",
     "static/media/cover-about.jpg": "/portfolio/static/media/cover-about.53bd6ed767b62a46268a.jpg",
     "static/media/food.png": "/portfolio/static/media/food.4309054cd589b2d1062e.png",
+    "static/media/hydevest.png": "/portfolio/static/media/hydevest.5aec64b344e1f7f11352.png",
+    "static/media/clicksandkids.png": "/portfolio/static/media/clicksandkids.c3ad3426ed003f3ab9a9.png",
+    "static/media/Swiftcertify.png": "/portfolio/static/media/Swiftcertify.5e9e94492d625d228e91.png",
     "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.d602ff85ff89928ab7cb.png",
     "static/media/elysium.png": "/portfolio/static/media/elysium.7171f27b4fa7a68bb83f.png",
     "static/media/port-03.jpg": "/portfolio/static/media/port-03.d1ff635a064f70e25516.jpg",
-    "static/media/Swiftcertify.png": "/portfolio/static/media/Swiftcertify.bd627349464675f44c12.png",
     "static/media/xisen.png": "/portfolio/static/media/xisen.4ead437ff29995540a55.png",
     "static/media/scopehealth.png": "/portfolio/static/media/scopehealth.dd7cb9a4b73d18ff4ef8.png",
+    "static/media/swiftprofile.png": "/portfolio/static/media/swiftprofile.62f5b0ebb59027d8fc9c.png",
     "static/media/seotech.png": "/portfolio/static/media/seotech.d73276921d58d5edbd65.png",
     "static/media/medfind.png": "/portfolio/static/media/medfind.e552f20902cf72d24b1c.png",
     "static/media/personal-logo.png": "/portfolio/static/media/personal-logo.68d7ba8958cab54c9e0b.png",
     "static/media/port.jpg": "/portfolio/static/media/port.e7c19e2060a26879ba1c.jpg",
-    "static/media/swiftprofile.png": "/portfolio/static/media/swiftprofile.9453f8337d70e8943b6a.png",
     "static/media/cover-project.jpg": "/portfolio/static/media/cover-project.d2123a51164517bce6bf.jpg",
     "index.html": "/portfolio/index.html",
-    "main.e3b496fc.css.map": "/portfolio/static/css/main.e3b496fc.css.map",
-    "main.29fe5ea4.js.map": "/portfolio/static/js/main.29fe5ea4.js.map",
+    "main.2a9bde0e.css.map": "/portfolio/static/css/main.2a9bde0e.css.map",
+    "main.02dac709.js.map": "/portfolio/static/js/main.02dac709.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3b496fc.css",
-    "static/js/main.29fe5ea4.js"
+    "static/css/main.2a9bde0e.css",
+    "static/js/main.02dac709.js"
   ]
 }
